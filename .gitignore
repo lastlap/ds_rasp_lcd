@@ -1,0 +1,5 @@
+*.scorer
+*.tflite
+*.txt
+*.wav
+._audio
